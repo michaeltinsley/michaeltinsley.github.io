@@ -26,7 +26,7 @@ projects:
     archived: true
     forks: false
     projects:
-    # - repo-name
+      - michaeltinsley
 
 # social_media:
   # behance: your_username

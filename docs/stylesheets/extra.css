@@ -1,0 +1,23 @@
+.md-typeset h1,
+.md-typeset h2 {
+  letter-spacing: -0.025em;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+.md-typeset p {
+  line-height: 1.75;
+}
+
+.md-typeset .home-intro {
+  color: var(--md-default-fg-color--light);
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.md-typeset a {
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 0.08em;
+}

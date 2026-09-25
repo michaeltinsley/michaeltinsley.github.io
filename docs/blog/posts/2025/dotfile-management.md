@@ -14,6 +14,8 @@ For the longest time, my dotfiles were an afterthought. I, unlike _most_ develop
 
 I'd heard of dotfile management and even attempted to use Chezmoi a few times, but I found the workflow a bit too complex for my taste. I needed something simpler, more intuitive. That's when I discovered GNU Stow, and found a happy medium.
 
+<!-- more -->
+
 ## What are Dotfiles Anyway?
 
 For those unfamiliar, "dotfiles" are configuration files for various programs on your system. They're named this way because their filenames start with a dot (e.g., `.bashrc`, `.vimrc`, `.gitconfig`), which typically hides them from view in file explorers. These files are the secret sauce that makes your development environment yours.
